@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-Je suis actuellement en stage en développement web à l'établissement géographique interarmées. je développe un site en React et Express.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+Je suis actuellement en stage en développement web à l'établissement géographique interarmées. J'y développe un site en React et Express.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 Je suis étudiant à l'IUT A de Villeneuve d'Ascq en dut informatique.<br>
 Je recherche une alternance dans le développement web ou desktop.
 
