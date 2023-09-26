@@ -17,9 +17,8 @@
 
 ### :man_technologist: About Me :
 
-Je suis actuellement en stage en développement web à l'établissement géographique interarmées. J'y développe un site en React et Express.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-Je suis étudiant à l'IUT A de Villeneuve d'Ascq en dut informatique.<br>
-Je recherche une alternance dans le développement web ou desktop.
+software engineering, artificial intelligence, etc. I also got my TOEIC with a score of 845/990. I'm in an apprenticeship at the company Worldline, in which I'm working as a software engineer. My main tasks are to develop and maintain a web application for my client who is ANTS (A part of the french gouvernement).<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+I'm an apprentice software ingineer at IMT Nord EuropeI'm looking for an 8 weeks international internship from 1st of July to 15th of september 2024.<br>
 
 ---
 
