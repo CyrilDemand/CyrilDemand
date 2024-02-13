@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 
  I'm in an apprenticeship at the company Worldline, in which I'm working as a software engineer. My main tasks are to develop and maintain a web application for my client who is ANTS (A part of the french gouvernement).<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-I'm an apprentice software ingineer at IMT Nord EuropeI'm looking for an 8 weeks international internship from 1st of July to 15th of september 2024.<br>
+I'm an apprentice software ingineer at IMT Nord EuropeI'm looking for an international internship of minimum 8 weeks from 1st of July to  of 7th of October 2024.<br>
 
 ---
 
@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+77t
